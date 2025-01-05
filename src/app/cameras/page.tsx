@@ -8,8 +8,8 @@ const Camera = () => {
         {id: 2, name: "Sony Alpha A7", price: 570000, image: '/sony.png', description: "This is a Sony camera"},
         {id: 3, name: "GoPro Hero 11", price: 122000, image: '/GoPro.png', description: "This is a GoPro camera"},
         {id: 4, name: "Dji Mini 3 Pro", price: 154999, image: '/Dji Mini.png', description: "This is a DJI Mini camera"},
+        {id: 6, name: "Fujifilm X-S10", price: 257000, image: '/Fujifilm.png', description: "This is a Fujifilm camera"},
         {id: 5, name: "Nikon D5600 Kit", price: 179999, image: '/Nikon.png', description: "This is a Nikon camera"},
-        {id: 6, name: "Fujifilm X-S10", price: 257000, image: '/Fujifilm.png', description: "This is a Fujifilm camera"}
     ];
 
     return (
